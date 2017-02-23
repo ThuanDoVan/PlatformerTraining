@@ -1,0 +1,124 @@
+
+soldier.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barm1
+  rotate: true
+  xy: 2, 8
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+barm2
+  rotate: false
+  xy: 454, 83
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+bfoot
+  rotate: false
+  xy: 766, 108
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+bhand
+  rotate: false
+  xy: 808, 97
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+bleg1
+  rotate: true
+  xy: 127, 19
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+bleg2
+  rotate: true
+  xy: 511, 88
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 337, 47
+  size: 68, 78
+  orig: 68, 78
+  offset: 0, 0
+  index: -1
+farm1
+  rotate: false
+  xy: 407, 65
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+farm2
+  rotate: false
+  xy: 569, 93
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+ffoot
+  rotate: false
+  xy: 721, 106
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+fhand
+  rotate: false
+  xy: 838, 99
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+fleg1
+  rotate: true
+  xy: 337, 4
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+fleg2
+  rotate: true
+  xy: 64, 12
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 202, 2
+  size: 133, 123
+  orig: 133, 123
+  offset: 0, 0
+  index: -1
+rifle
+  rotate: false
+  xy: 2, 55
+  size: 198, 70
+  orig: 198, 70
+  offset: 0, 0
+  index: -1
+shoot
+  rotate: true
+  xy: 627, 91
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+shoot-2
+  rotate: true
+  xy: 674, 91
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1

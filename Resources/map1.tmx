@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="50" height="7" tilewidth="64" tileheight="64" nextobjectid="121">
+ <tileset firstgid="1" name="background" tilewidth="64" tileheight="64" tilecount="84" columns="12">
+  <image source="background.png" width="800" height="480"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="50" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjZBgFo2AUjIJRQE8AAArwAAI=
+  </data>
+ </layer>
+ <objectgroup name="floor">
+  <object id="90" x="69.697" y="427.273" width="1060.61" height="21.2121"/>
+  <object id="92" x="1445.45" y="421.212" width="539.394" height="21.2121"/>
+  <object id="94" x="2624.24" y="272.727" width="566.667" height="21.2121"/>
+  <object id="96" x="1097" y="328" width="519.148" height="12.3028"/>
+  <object id="97" x="2215.15" y="124.242" width="345.455" height="21.2121"/>
+  <object id="98" x="2042.42" y="248.485" width="190.909" height="18.1818"/>
+  <object id="100" x="1671.67" y="223.576" width="203.03" height="21.2121"/>
+  <object id="111" x="900" y="228" width="312.121" height="18"/>
+  <object id="116" x="855" y="325" width="123" height="14"/>
+ </objectgroup>
+ <objectgroup name="ladder">
+  <object id="93" x="1981.33" y="274" width="644.667" height="150.667"/>
+ </objectgroup>
+ <objectgroup name="ladder2"/>
+ <objectgroup name="minifort"/>
+ <objectgroup name="bigfort"/>
+ <objectgroup name="stand_man">
+  <object id="113" x="1912.12" y="369.697" width="51.5152" height="42.4242"/>
+ </objectgroup>
+ <objectgroup name="hide_man"/>
+ <objectgroup name="moveEnemy">
+  <object id="103" x="1409" y="230.697" width="206" height="81.8182"/>
+  <object id="104" x="808" y="354.333" width="321" height="66.6667"/>
+  <object id="105" x="2764" y="178.03" width="290" height="84.8485"/>
+  <object id="107" x="2430.67" y="209.03" width="67.33" height="65.7576"/>
+ </objectgroup>
+ <objectgroup name="bridge_head"/>
+ <objectgroup name="bridge_body"/>
+ <objectgroup name="bridge_tail"/>
+ <objectgroup name="rewardM"/>
+ <objectgroup name="rewardF"/>
+ <objectgroup name="rewardS"/>
+ <objectgroup name="rewardFlyS"/>
+ <objectgroup name="rewardFlyF"/>
+ <objectgroup name="item_plane"/>
+ <objectgroup name="item_tank"/>
+ <objectgroup name="item_health">
+  <object id="120" x="3087" y="201" width="34" height="40"/>
+ </objectgroup>
+</map>

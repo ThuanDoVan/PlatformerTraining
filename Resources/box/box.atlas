@@ -1,0 +1,61 @@
+
+box.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grid-1
+  rotate: true
+  xy: 2, 37
+  size: 6, 100
+  orig: 6, 100
+  offset: 0, 0
+  index: -1
+grid-2
+  rotate: true
+  xy: 2, 37
+  size: 6, 100
+  orig: 6, 100
+  offset: 0, 0
+  index: -1
+grid-3
+  rotate: true
+  xy: 2, 37
+  size: 6, 100
+  orig: 6, 100
+  offset: 0, 0
+  index: -1
+grid-4
+  rotate: true
+  xy: 2, 37
+  size: 6, 100
+  orig: 6, 100
+  offset: 0, 0
+  index: -1
+lid
+  rotate: false
+  xy: 2, 45
+  size: 111, 15
+  orig: 111, 15
+  offset: 0, 0
+  index: -1
+smoke-1
+  rotate: true
+  xy: 226, 30
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+smoke-2
+  rotate: false
+  xy: 179, 16
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+smoke-3
+  rotate: false
+  xy: 115, 2
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1

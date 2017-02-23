@@ -1,0 +1,146 @@
+
+soldier.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barm1
+  rotate: false
+  xy: 453, 103
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+barm2
+  rotate: false
+  xy: 325, 2
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+bfoot
+  rotate: false
+  xy: 229, 2
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+bhand
+  rotate: false
+  xy: 488, 105
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+bleg1
+  rotate: false
+  xy: 423, 91
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+bleg2
+  rotate: true
+  xy: 341, 28
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 229, 21
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+bstrap
+  rotate: true
+  xy: 453, 90
+  size: 11, 41
+  orig: 11, 41
+  offset: 0, 0
+  index: -1
+farm1
+  rotate: false
+  xy: 341, 55
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+farm2
+  rotate: false
+  xy: 294, 2
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+ffoot
+  rotate: false
+  xy: 262, 2
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+fhand
+  rotate: true
+  xy: 318, 21
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+fleg1
+  rotate: false
+  xy: 311, 43
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+fleg2
+  rotate: false
+  xy: 423, 59
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+fstrap
+  rotate: true
+  xy: 275, 21
+  size: 10, 41
+  orig: 10, 41
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 116, 7
+  size: 111, 119
+  orig: 111, 119
+  offset: 0, 0
+  index: -1
+head2
+  rotate: false
+  xy: 2, 7
+  size: 112, 119
+  orig: 112, 119
+  offset: 0, 0
+  index: -1
+rifle
+  rotate: false
+  xy: 229, 80
+  size: 156, 46
+  orig: 156, 46
+  offset: 0, 0
+  index: -1
+shoot
+  rotate: false
+  xy: 387, 81
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+shoot-2
+  rotate: false
+  xy: 275, 33
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
